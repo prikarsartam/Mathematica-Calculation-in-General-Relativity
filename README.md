@@ -4,4 +4,4 @@ Many kinds of spacetime tensor manipulation, visualisation of Riemann Surfaces i
 Introductory repository of Mathematica programs for scientific visualisation and calculational ease has been presented; incomplete and currently in progress
 
 
-![rs](https://user-images.githubusercontent.com/104849674/174852202-bec16e25-7c84-43a8-933a-d9a82d4d4cd4.png)
+![2](https://user-images.githubusercontent.com/104849674/174852286-30620428-9e4e-40b5-a19b-eba42c1215d8.svg)
