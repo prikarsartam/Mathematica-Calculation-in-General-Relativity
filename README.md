@@ -5,3 +5,4 @@ Introductory repository of Mathematica programs for scientific visualisation and
 
 
 ![2](https://user-images.githubusercontent.com/104849674/174852286-30620428-9e4e-40b5-a19b-eba42c1215d8.svg)
+![CodeCogsEqn](https://user-images.githubusercontent.com/104849674/174853714-8cac76d5-5671-4cd7-9f52-dd184a1a57b5.svg)
